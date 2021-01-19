@@ -1,0 +1,77 @@
+{
+
+    "Items": [
+
+        {
+            "cauHoi": 1,
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        {
+            "cauHoi": 2,
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        {
+            "cauHoi": 3,
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        {
+            "cauHoi": 4,
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+        },
+        {
+            "cauHoi": 5,
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+        },
+        {
+            "cauHoi": 6,
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        {
+            "cauHoi": 7,
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        {
+            "cauHoi": 8,
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        {
+            "cauHoi": 9,
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        },
+        {
+            "cauHoi": 10,
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        }
+    ]
+}
+
